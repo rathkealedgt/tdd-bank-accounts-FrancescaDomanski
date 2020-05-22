@@ -1,0 +1,11 @@
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\kathr\Documents\GitHub\tdd-bank-accounts-FrancescaDomanski\BankAccounts\obj\Debug\BankAccounts.pdb
